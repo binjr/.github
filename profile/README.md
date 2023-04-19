@@ -9,4 +9,3 @@ no server or server-side components dedicated to _binjr_ that need to be install
 
 * https://binjr.eu
 * [@binjr@fosstodon.org](https://fosstodon.org/@binjr)
-* [@binjr_app@twitter.com](https://twitter.com/binjr_app)
